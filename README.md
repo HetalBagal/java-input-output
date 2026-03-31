@@ -26,6 +26,6 @@ java InputOutput
 
 ## 📷 Example Output
 
-Enter the value of a: 5/n
-Enter the value of b: 10/n
-The sum of the numbers is: 15/n
+Enter the value of a: 5
+Enter the value of b: 10
+The sum of the numbers is: 15
