@@ -15,16 +15,17 @@ This is a simple Java program that takes two integer inputs from the user and ca
 ## ▶️ How to Run
 
 1. Compile the program:
-   javac InputOutput.java
+   
+javac InputOutput.java
 
 
-2. Run the program:
+3. Run the program:
 
 java InputOutput
 
 
 ## 📷 Example Output
 
-Enter the value of a: 5
-Enter the value of b: 10
-The sum of the numbers is: 15
+Enter the value of a: 5/n
+Enter the value of b: 10/n
+The sum of the numbers is: 15/n
